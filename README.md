@@ -4,6 +4,9 @@ A **Performance Management System (PMS)** built with **React, TypeScript, and Ta
 This application facilitates a structured **KRA/KPI lifecycle**, managing organizational hierarchies from company registration to individualized performance tracking.
 
 ---
+## 🌐 Live Demo
+Click Here: https://performance-management-system-nine.vercel.app/
+
 
 ## 🚀 Key Features
 
